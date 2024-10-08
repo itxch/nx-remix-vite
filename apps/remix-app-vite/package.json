@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "remix-app-vite",
+  "description": "",
+  "license": "",
+  "scripts": {},
+  "type": "module",
+  "sideEffects": false
+}
